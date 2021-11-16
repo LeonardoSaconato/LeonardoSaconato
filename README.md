@@ -11,8 +11,7 @@
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSaconato&layout=compact&langs_count=7&theme=dark" />
 <img>
 </div>
-<div style="display: inline_block; justify-content: center;
-align-items: center;"><br>
+<div style="display: inline_block;"><br>
 <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
