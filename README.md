@@ -1,4 +1,4 @@
-### echo "Wello! Me chamo Leonardo Saconato";
+### echo "Hello! Me chamo Leonardo Saconato";
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente estudando JavaScript
