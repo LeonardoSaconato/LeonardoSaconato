@@ -1,6 +1,7 @@
 ### echo "Hello! Me chamo Leonardo Saconato";
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🎓Cursando Tecnologia em Redes de Computadores
+- 👨🏻‍🎓Graduado em Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente estudando JavaScript
 - 📚 Studying to Become a Front-End Developer
 - ⚡ Sempre em busca de novos conhecimentos
