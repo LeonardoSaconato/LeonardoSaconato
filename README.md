@@ -3,7 +3,7 @@
 - 🎓Cursando Tecnologia em Redes de Computadores
 - 👨🏻‍🎓Graduado em Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente estudando JavaScript
-- 📚 Studying to Become a Front-End Developer
+- 📚 Studying to Become a Cloud Engineer and Front-End Developer
 - ⚡ Sempre em busca de novos conhecimentos
 <hr>
 <div>
